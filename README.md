@@ -2,7 +2,7 @@
 This is a Python application that creates a website with a list of the movie trailers.
 
 #Usage
-Open the file named Media.py and run with Python
+Open the file named Media.py and run with Python.
 
 #Contribution
 ##Bugs and potential improvements
